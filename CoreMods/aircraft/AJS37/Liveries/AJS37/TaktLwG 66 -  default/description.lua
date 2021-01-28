@@ -17,4 +17,4 @@ livery = {
 {"AGM_65B", DIFFUSE, "RB75_Diff", true};	
 }
 
-name = "TaktLwG 66 - default"
+name = "TaktLwG 66 -  default"

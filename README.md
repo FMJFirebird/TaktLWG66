@@ -13,6 +13,7 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2021-02-01 A-10 Liveries für NoGear
 - 2021-01-31 E-2C and E-3A Liveries hinzugefügt
 - 2021-01-29 Minor fix bei den F-16 Livs
 - 2021-01-28 Refactoring aller TaktLwG Liveries

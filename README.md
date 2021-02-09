@@ -13,6 +13,7 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2021-02-09 Mig-29g, J-11A, Su-27 und F-15c Liveries hinzugefügt
 - 2021-02-02 SU-25t Livery hinzugefügt
 - 2021-02-02 F-14 und FA-18 Liveries für NoGear hinzugefügt
 - 2021-02-02 Mig-29s Livery hinzugefügt

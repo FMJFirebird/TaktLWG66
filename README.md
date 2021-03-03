@@ -13,7 +13,9 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
-- 2021-03-03 R.I.P Wolfpack, BF-109 K4 hinzugefügt
+- 2021-03-03 P-51 hinzugefügt
+- 2021-03-03 BF-109 K4 hinzugefügt
+- 2021-03-03 R.I.P Wolfpack - Welcome Schattenwölfe
 - 2021-02-28 Boomer hinzugefügt, Brainic + Alkman geupdated
 - 2021-02-13 Update J-11A, Su-27 und SU-33 Liveries hinzugefügt
 - 2021-02-09 Mig-29g, J-11A, Su-27 und F-15c Liveries hinzugefügt

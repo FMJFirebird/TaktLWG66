@@ -177,6 +177,6 @@ custom_args =
 
 
 
-name = "TaktLwG66 -  default"
+name = "TaktLwG66"
 
 order     = 999

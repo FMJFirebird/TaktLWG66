@@ -23,4 +23,4 @@ livery = {
 {"HB_F14_EXT_RIO_HELMET", ROUGHNESS_METALLIC ,"../TaktLwG 66 -  default66/HB_F14_EXT_RIO_HELMET_RoughMet",false};
 {"HB_F14_EXT_PILOT_SUIT", 0 ,"../TaktLwG 66 -  default/HB_F14_EXT_PILOT_SUIT",false};
 }
-name = "TaktLWG 66 - Stunt"
+name = "TaktLWG 66 -  Stunt"

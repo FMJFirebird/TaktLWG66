@@ -5,9 +5,9 @@ livery = {
 
 {"HB_F14_EXT_01", 0 ,"HB_F14_EXT_01",false};
 {"HB_F14_EXT_02", 0 ,"HB_F14_EXT_02",false};
-{"HB_F14_EXT_03", 0 ,"../TaktLwG 66 -  default/HB_F14_EXT_03_WP",false};
-{"HB_F14_EXT_04", 0 ,"../TaktLwG 66 -  default/HB_F14_EXT_04_WP",false};
-{"HB_F14_EXT_TAIL", 0 ,"../TaktLwG 66 -  default/HB_F14_EXT_TAIL_WP",false};
+{"HB_F14_EXT_03", 0 ,"../TaktLwG 66 -  default/HB_F14_EXT_03_DV",false};
+{"HB_F14_EXT_04", 0 ,"../TaktLwG 66 -  default/HB_F14_EXT_04_DV",false};
+{"HB_F14_EXT_TAIL", 0 ,"../TaktLwG 66 -  default/HB_F14_EXT_TAIL_DV",false};
 {"HB_F14_WING_LEFT_01", 0 ,"../TaktLwG 66 -  default/HB_F14_WING_LEFT",false};
 {"HB_F14_WING_RIGHT", 0 ,"../TaktLwG 66 -  default/HB_F14_WING_RIGHT",false};
 {"HB_F14_EXT_PHOENIXRAILS", 0 ,"../TaktLwG 66 -  default/HB_F14_EXT_PHOENIXPYLONS",false};
@@ -23,4 +23,4 @@ livery = {
 {"HB_F14_EXT_RIO_HELMET", ROUGHNESS_METALLIC ,"../TaktLwG 66 -  default66/HB_F14_EXT_RIO_HELMET_RoughMet",false};
 {"HB_F14_EXT_PILOT_SUIT", 0 ,"../TaktLwG 66 -  default/HB_F14_EXT_PILOT_SUIT",false};
 }
-name = "TaktLWG 66 - Shelter"
+name = "TaktLWG 66 -  Shelter"

@@ -155,9 +155,9 @@ livery = {
 	{"pilot_F16_helmet", 1,	                    "pilot_f16_helmet_nm",			true};
 	{"pilot_F16_helmet", ROUGHNESS_METALLIC,	"pilot_f16_helmet_roughmet",	true};
 	
-	{"pilot_F16_patch",	 0,	                    "../TaktLWG 66/pilot_f16_patch",				false};
-	{"pilot_F16_patch",	 1,	                    "../TaktLWG 66/pilot_f16_patch_nm",			false};
-	{"pilot_F16_patch",	 ROUGHNESS_METALLIC,	"../TaktLWG 66/pilot_f16_patch_roughmet",		false};
+	{"pilot_F16_patch",	 0,	                    "../TaktLWG 66/pilot_f16_patch_HP",				false};
+	{"pilot_F16_patch",	 1,	                    "../TaktLWG 66/pilot_f16_patch_nm_HP",			false};
+	{"pilot_F16_patch",	 ROUGHNESS_METALLIC,	"../TaktLWG 66/pilot_f16_patch_roughmet_HP",		false};
 	
 	{"pilot_F16",	     0,	                    "pilot_f16",			        true};
 	{"pilot_F16",	     1,	                    "pilot_f16_nm",			        true};
@@ -177,6 +177,6 @@ custom_args =
 
 
 
-name = "TaktLwG66 - Noserat"
+name = "TaktLwG66 - Cake"
 
 order     = 999

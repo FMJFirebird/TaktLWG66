@@ -13,6 +13,7 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2021-03-27 F-16 Livery Update Noserate + Radioman
 - 2021-03-07 Shelter + Shorty Liveries adaptiert
 - 2021-03-07 FW-190 D9 hinzugefügt
 - 2021-03-04 TF-51D hinzugefügt

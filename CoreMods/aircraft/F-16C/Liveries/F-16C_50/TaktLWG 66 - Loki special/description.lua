@@ -140,7 +140,7 @@ livery = {
 
 }
 
-name = "DV Special - Loki"
+name = "TaktLwG 66 - Loki special"
 
 order     = 999
 

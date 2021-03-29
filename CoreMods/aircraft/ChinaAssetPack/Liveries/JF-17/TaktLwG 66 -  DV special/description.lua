@@ -73,7 +73,7 @@ livery = {
 	{"03 - Default", NORMAL_MAP, "dlpodakg_norm", true};
 	{"03 - Default", ROUGHNESS_METALLIC, "dlpodakg_roughmet", true};
 }
-name = "DV Special"
+name = "TaktLwG 66 - DV Special"
 
 
 

@@ -140,7 +140,7 @@ livery = {
 
 }
 
-name = "DV Special - Firebird"
+name = "TaktLwG 66 - Da Vinci special"
 
 order     = 999
 

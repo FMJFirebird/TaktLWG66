@@ -177,6 +177,6 @@ custom_args =
 
 
 
-name = "TaktLwG66 - Brainiac"
+name = "TaktLwG66 - RadioMan"
 
 order     = 999

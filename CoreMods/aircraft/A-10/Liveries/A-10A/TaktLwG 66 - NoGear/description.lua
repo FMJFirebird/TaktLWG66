@@ -3,8 +3,8 @@ livery = {
 	{"A-10C_PAINT_1-b", 0 ,"../../A-10C/TaktLwG 66 -  default/A-10C-b",false};
 	{"A-10C_PAINT_1-c", 0 ,"../../A-10C/TaktLwG 66 -  default/A-10C-c",false};
 	{"A-10C_PAINT_1-d", 0 ,"../../A-10C/TaktLwG 66 -  default/A-10C-d",false};
-	{"A-10C_PAINT_1-e", 0 ,"../../A-10C/TaktLwG 66 -  default WP/A-10C-e",false};
-	{"A-10C_PAINT_1-f", 0 ,"../../A-10C/TaktLwG 66 -  default WP/A-10C-f",false};
+	{"A-10C_PAINT_1-e", 0 ,"../../A-10C/TaktLwG 66 -  default/A-10C-e",false};
+	{"A-10C_PAINT_1-f", 0 ,"../../A-10C/TaktLwG 66 -  default/A-10C-f",false};
 	{"A-10C_PAINT_1-g", 0 ,"../../A-10C/TaktLwG 66 -  default/A-10C-g",false};
 	{"A-10C_PAINT_1-h", 0 ,"../../A-10C/TaktLwG 66 -  default/A-10C-h",false};
 	{"A-10C_PAINT_1-i", 0 ,"../../A-10C/TaktLwG 66 -  default/A-10C-i",false};

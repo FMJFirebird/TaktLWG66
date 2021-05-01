@@ -28,7 +28,7 @@ livery = {
 	{"JF-17_main08_decol", ROUGHNESS_METALLIC ,"JF-17_main08_roughmet.dds",true},
 	{"JF-17_main08_decol", 3, "JF-17_decol_DV", false},
 	{"JF-17_main08_BN52", 0, "JF-17_main08", false},
-	{"JF-17_main08_BN52", ROUGHNESS_METALLIC ,".JF-17_main08_roughmet.dds",true},
+	{"JF-17_main08_BN52", ROUGHNESS_METALLIC ,"JF-17_main08_roughmet.dds",true},
 	{"JF-17_main08_BN31", 0, "JF-17_main08", false},
 	{"JF-17_main08_BN31", ROUGHNESS_METALLIC ,"JF-17_main08_roughmet.dds",true},
 	{"JF-17_main08_BN32", 0, "JF-17_main08", false},

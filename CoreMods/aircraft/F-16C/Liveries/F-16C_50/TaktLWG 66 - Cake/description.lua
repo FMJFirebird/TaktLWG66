@@ -62,12 +62,12 @@ livery = {
 	{"F16_bl50_NOUSE_2_BORT_NUMBER_X001", 	DECAL, 				"empty", true};
 	
 -- F16_bl50_Main_3
-	{"F16_bl50_Main_3",	0,	                "../TaktLWG 66/F16_bl50_Main_3",			false};
+	{"F16_bl50_Main_3",	0,	                "../TaktLWG 66/F16_bl50_Main_3_SE",			false};
 	{"F16_bl50_Main_3",	1,	                "f16_bl50_main_3_normal",	true};
 	{"F16_bl50_Main_3",	ROUGHNESS_METALLIC,	"../TaktLWG 66/f16_bl50_main_3_roughmet",	false};
 	
 -- F16_bl50_Kil
-	{"F16_bl50_Kil",	0,	                "../TaktLWG 66/F16_bl50_Kil",				false};
+	{"F16_bl50_Kil",	0,	                "../TaktLWG 66/F16_bl50_Kil_SE",				false};
 	{"F16_bl50_Kil",	1,	                "f16_bl50_kil_normal",		true};
 	{"F16_bl50_Kil",	ROUGHNESS_METALLIC,	"../TaktLWG 66/F16_bl50_Kil_roughmet",	false};
 
@@ -155,9 +155,9 @@ livery = {
 	{"pilot_F16_helmet", 1,	                    "pilot_f16_helmet_nm",			true};
 	{"pilot_F16_helmet", ROUGHNESS_METALLIC,	"pilot_f16_helmet_roughmet",	true};
 	
-	{"pilot_F16_patch",	 0,	                    "../TaktLWG 66/pilot_f16_patch",				false};
-	{"pilot_F16_patch",	 1,	                    "../TaktLWG 66/pilot_f16_patch_nm",			false};
-	{"pilot_F16_patch",	 ROUGHNESS_METALLIC,	"../TaktLWG 66/pilot_f16_patch_roughmet",		false};
+	{"pilot_F16_patch",	 0,	                    "../TaktLWG 66/pilot_f16_patch_SE",				false};
+	{"pilot_F16_patch",	 1,	                    "../TaktLWG 66/pilot_f16_patch_nm_SE",			false};
+	{"pilot_F16_patch",	 ROUGHNESS_METALLIC,	"../TaktLWG 66/pilot_f16_patch_roughmet_SE",		false};
 	
 	{"pilot_F16",	     0,	                    "pilot_f16",			        true};
 	{"pilot_F16",	     1,	                    "pilot_f16_nm",			        true};
@@ -169,10 +169,10 @@ livery = {
 
 custom_args =
 {
-	[1000] = 0.1, -- change of type of board number (0.0 -default USA, 0.1, 0.2, 0.3, 1.0 not drawn)
-	[1001] = 1.0, -- vis refuel board number (0.0 drawn, 1.0 not drawn)
-	[1002] = 0.1, -- change of type intake board number (0.0 two digits, 0.1 three digits, 1.0 not drawn)
-	[1003] = 1.0, -- vis nouse board number (0.0 drawn, 1.0 not drawn)
+[1000] = 1.0, -- change of type of board number (0.0 -default USA, 0.1, 0.2, 0.3, 1.0 not drawn)
+[1001] = 1.0, -- vis refuel board number (0.0 drawn, 1.0 not drawn)
+[1002] = 0.1, -- change of type intake board number (0.0 two digits, 0.1 three digits, 1.0 not drawn)
+[1003] = 1.0, -- vis nouse board number (0.0 drawn, 1.0 not drawn)
 }
 
 

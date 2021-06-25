@@ -13,6 +13,7 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2021-06-25 Mi-24 Hind Livery hinzugefügt, F-16 Aggressor angepasst
 - 2021-05-17 Cake F-16 Livery angepasst (SE)
 - 2021-05-13 M-2000 Mirage hinzugefügt, F-14 Livery for MAC
 - 2021-05-01 minor JF-17 fix und Wolfpack aus den A-10 Liveries entfernt (+ Anpassung A-10 No Gear)

@@ -135,7 +135,7 @@ livery = {
     {"F16_bl50_INTAKE_BORT_NUMBER",	0,	                "F16_bl50_Main_3",				false};
 	{"F16_bl50_INTAKE_BORT_NUMBER",	1,	                "f16_bl50_main_3_normal",			true};
 	{"F16_bl50_INTAKE_BORT_NUMBER",	ROUGHNESS_METALLIC,	"F16_bl50_Main_3_IAF_RoughMet",		true};
-	{"F16_bl50_INTAKE_BORT_NUMBER",	DECAL,	            "IAF_bort_number_101",			false};
+	{"F16_bl50_INTAKE_BORT_NUMBER",	DECAL,	            "IAF_bort_number",			false};
 
 
 }

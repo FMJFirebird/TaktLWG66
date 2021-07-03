@@ -23,12 +23,12 @@ livery = {
 	{"mi-24p_ext01", ROUGHNESS_METALLIC, "mi-24p_ext01_RoughMet", true};
 	
 -- mi-24p_ext02 
-	{"mi-24p_ext02", 0, "/mi-24p_ext02", false};
+	{"mi-24p_ext02", 0, "../TaktLwG 66 - default/mi-24p_ext02_DV", false};
 	{"mi-24p_ext02", 1, "mi_24p_ext02_NRM",	true};	
 	{"mi-24p_ext02", ROUGHNESS_METALLIC, "mi-24p_ext02_RoughMet", true};
 	
 -- mi-24p_ext03 
-	{"mi-24p_ext03", 0, "mi-24p_ext03", false};
+	{"mi-24p_ext03", 0, "../TaktLwG 66 - default/mi-24p_ext03_DV", false};
 	{"mi-24p_ext03", 1, "mi_24p_ext03_NRM",	true};	
 	{"mi-24p_ext03", ROUGHNESS_METALLIC, "mi-24p_ext03_RoughMet", true};	
 	
@@ -66,6 +66,6 @@ livery = {
 
 
 
-name = "TaktLwG 66 -  Grimm & Da Vinci"
+name = "TaktLwG 66 -  Da Vinci / Grimm"
 
 order     = 1

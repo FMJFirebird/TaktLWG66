@@ -13,6 +13,7 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2021-09-22 F-18 Liveries für Joker hinzugefügt
 - 2021-07-11 Update div. Mi-24 Hind
 - 2021-07-03 F-16 Desert Aggressor, div. Mi-24 Hind und Mirage Special Liveries hinzugefügt
 - 2021-06-26 Mi-24 Hind Pfadkorrektur

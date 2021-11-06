@@ -13,6 +13,7 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2021-11-06 JF-17 special Update, Mi-24P Update, Brainis A-10 "Königsedition" hinzugefügt
 - 2021-10-26 F-18 Liveries für Godfather hinzugefügt
 - 2021-09-22 F-18 Liveries für Joker hinzugefügt
 - 2021-07-11 Update div. Mi-24 Hind

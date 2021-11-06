@@ -61,6 +61,7 @@ livery = {
 	{"mi-24p_ext07_net", DECAL, "../TaktLwG 66 - default/mi-24p_ext07",	false};			
 		
 -- Pilot
+	{"mi_24p_evu",	DIFFUSE			,	"../TaktLwG 66 - default/mi-24p_evu", false};
 
 }
 

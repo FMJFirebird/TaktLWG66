@@ -13,6 +13,7 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2022-02-12 Grumbel Liveries hinzugefügt
 - 2022-01-23 F-14A Liveries hinzugefügt
 - 2022-01-20 Viggen special, RedButton F-16 und Dodge F-18 Liveries hinzugefügt
 - 2021-11-06 JF-17 special Update, Mi-24P Update, Brainis A-10 "Königsedition" hinzugefügt

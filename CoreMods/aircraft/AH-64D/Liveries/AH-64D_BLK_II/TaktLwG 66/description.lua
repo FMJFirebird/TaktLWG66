@@ -1,16 +1,16 @@
 livery = {
 
 -- AH-64D_front
-	{"AH-64D_front",	DIFFUSE,			"AH-64D_front", false};
-	{"AH-64D_front",	ROUGHNESS_METALLIC,	"AH-64D_front_RoughMet", false};
+	{"AH-64D_front",	DIFFUSE,			"AH-64D_front", true};
+	{"AH-64D_front",	ROUGHNESS_METALLIC,	"AH-64D_front_RoughMet", true};
 	
 -- AH-64D_bottom_1
-	{"AH-64D_bottom_1",	DIFFUSE,			"AH-64D_bottom_1", false};
-	{"AH-64D_bottom_1",	ROUGHNESS_METALLIC,	"AH-64D_bottom_1_RoughMet", false};
+	{"AH-64D_bottom_1",	DIFFUSE,			"AH-64D_bottom_1", true};
+	{"AH-64D_bottom_1",	ROUGHNESS_METALLIC,	"AH-64D_bottom_1_RoughMet", true};
 	
 -- AH-64D_bottom_2
-	{"AH-64D_bottom_2",	DIFFUSE,			"AH-64D_bottom_2", false};
-	{"AH-64D_bottom_2",	ROUGHNESS_METALLIC,	"AH-64D_bottom_2_RoughMet", false};
+	{"AH-64D_bottom_2",	DIFFUSE,			"AH-64D_bottom_2", true};
+	{"AH-64D_bottom_2",	ROUGHNESS_METALLIC,	"AH-64D_bottom_2_RoughMet", true};
 
 -- AH-64D_balka_1	
 	{"AH-64D_balka_1",	DIFFUSE,			"AH-64D_balka_1", false};
@@ -18,28 +18,28 @@ livery = {
 
 -- AH-64D_balka_2	
 	{"AH-64D_balka_2",	DIFFUSE,			"AH-64D_balka_2", false};
-	{"AH-64D_balka_2",	ROUGHNESS_METALLIC,	"AH-64D_balka_2_RoughMet", false};
+	{"AH-64D_balka_2",	ROUGHNESS_METALLIC,	"AH-64D_balka_2_RoughMet", true};
 
 -- AH-64D_engine_1
-	{"AH-64D_engine_1",	DIFFUSE,			"AH-64D_engine_1", false};
-	{"AH-64D_engine_1",	ROUGHNESS_METALLIC,	"AH-64D_engine_1_RoughMet", false};
+	{"AH-64D_engine_1",	DIFFUSE,			"AH-64D_engine_1", true};
+	{"AH-64D_engine_1",	ROUGHNESS_METALLIC,	"AH-64D_engine_1_RoughMet", true};
 
 -- AH-64D_engine_2
 	{"AH-64D_engine_2",	DIFFUSE,			"AH-64D_engine_2", false};
 	{"AH-64D_engine_2",	ROUGHNESS_METALLIC,	"AH-64D_engine_2_RoughMet", true};
 
 -- AH-64D_vtulka
-	{"AH-64D_vtulka",	DIFFUSE,			"AH-64D_vtulka", false};
-	{"AH-64D_vtulka",	ROUGHNESS_METALLIC,	"AH-64D_vtulka_RoughMet", false};
+	{"AH-64D_vtulka",	DIFFUSE,			"AH-64D_vtulka", true};
+	{"AH-64D_vtulka",	ROUGHNESS_METALLIC,	"AH-64D_vtulka_RoughMet", true};
 
 -- AH-64D_wings
-	{"AH-64D_wings",	DIFFUSE,			"AH-64D_wings", false};
-	{"AH-64D_wings",	ROUGHNESS_METALLIC,	"AH-64D_wings_RoughMet", false};
+	{"AH-64D_wings",	DIFFUSE,			"AH-64D_wings", true};
+	{"AH-64D_wings",	ROUGHNESS_METALLIC,	"AH-64D_wings_RoughMet", true};
 
 
 --BORT_NUMBER----------------------------------------------------------------------------------------
-	{"AH64D_decal_0",	DIFFUSE,			"AH-64D_decal_0", false};
-	{"AH64D_fin_bort_number",	DIFFUSE,	"AH-64D_number_TaktLwG 66", false};	
+	{"AH64D_decal_0",	DIFFUSE,			"AH-64D_decal_0", true};
+	{"AH64D_fin_bort_number",	DIFFUSE,	"AH-64D_number_TaktLwG 66", true};
 
 
 -- PILOT-------------------------------------------------------------------------------------------
@@ -55,8 +55,10 @@ livery = {
 
 
 
-name = "TaktLwG 66 - default"
+name = "TaktLwG 66 -  standart"
 
+
+order     = 998
 
 custom_args = 
 {

@@ -62,12 +62,12 @@ livery = {
 	{"F16_bl50_NOUSE_2_BORT_NUMBER_X001", 	DECAL, 				"empty", true};
 	
 -- F16_bl50_Main_3
-	{"F16_bl50_Main_3",	0,	                "../TaktLWG 66/F16_bl50_Main_3_WP",			false};
+	{"F16_bl50_Main_3",	0,	                "../TaktLWG 66/F16_bl50_Main_3",			false};
 	{"F16_bl50_Main_3",	1,	                "f16_bl50_main_3_normal",	true};
 	{"F16_bl50_Main_3",	ROUGHNESS_METALLIC,	"../TaktLWG 66/f16_bl50_main_3_roughmet",	false};
 	
 -- F16_bl50_Kil
-	{"F16_bl50_Kil",	0,	                "../TaktLWG 66/F16_bl50_Kil_WP",				false};
+	{"F16_bl50_Kil",	0,	                "../TaktLWG 66/F16_bl50_Kil",				false};
 	{"F16_bl50_Kil",	1,	                "f16_bl50_kil_normal",		true};
 	{"F16_bl50_Kil",	ROUGHNESS_METALLIC,	"../TaktLWG 66/F16_bl50_Kil_roughmet",	false};
 

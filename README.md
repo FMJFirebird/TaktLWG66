@@ -13,6 +13,7 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2022-05-03 A-10 liveries für Grimm hinzugefügt
 - 2022-04-15 RedButton F-16 Livery fixed
 - 2022-04-15 Slug Ka-50 Livery hinzugefügt
 - 2022-04-15 diverse individuelle AH-64D TaktLwG 66 Liveries hinzugefügt

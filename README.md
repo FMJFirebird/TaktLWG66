@@ -13,6 +13,10 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2022-08-22 F-16 Lackierungen für Opah und Apeman
+- 2022-08-22 F-16 default update für SE und SP mit Medaille
+- 2022-08-22 F-16 .lua update für Jimbo und PeeJott
+- 2022-08-22 F/A-18 Lackierung für Kiddo
 - 2022-06-28 Hookers Liveries hinzugefügt
 - 2022-05-03 A-10 liveries für Grimm hinzugefügt
 - 2022-04-15 RedButton F-16 Livery fixed

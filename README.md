@@ -13,6 +13,9 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2022-09-13 F-16 Tanks gefixt
+- 2022-09-13 M2000 für Bounty
+- 2022-09-13 Competition JF-17 unnd J-11A
 - 2022-08-22 F-16 Lackierungen für Opah und Apeman
 - 2022-08-22 F-16 default update für SE und SP mit Medaille
 - 2022-08-22 F-16 .lua update für Jimbo und PeeJott

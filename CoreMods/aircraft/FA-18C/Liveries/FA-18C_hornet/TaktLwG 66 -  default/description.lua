@@ -66,27 +66,27 @@ livery = {
 	
 	{"F18C_BORT_NUMBER_KIL_L_100", 0 ,"F18C_2_DIFF_default",false};
 	{"F18C_BORT_NUMBER_KIL_L_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_L_100", DECAL ,"empty",true};
+	{"F18C_BORT_NUMBER_KIL_L_100", DECAL ,"F18C_bort_number_uk",false};	
 	
 	{"F18C_BORT_NUMBER_KIL_L_10", 0 ,"F18C_2_DIFF_default",false};
 	{"F18C_BORT_NUMBER_KIL_L_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_L_10", DECAL ,"empty",true};	
+	{"F18C_BORT_NUMBER_KIL_L_10", DECAL ,"F18C_bort_number_uk",false};		
 
 	{"F18C_BORT_NUMBER_KIL_L_01", 0 ,"F18C_2_DIFF_default",false};
 	{"F18C_BORT_NUMBER_KIL_L_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_L_01", DECAL ,"empty",true};	
+	{"F18C_BORT_NUMBER_KIL_L_01", DECAL ,"F18C_bort_number_uk",false};	
 	
 	{"F18C_BORT_NUMBER_KIL_R_100", 0 ,"F18C_2_DIFF_default",false};
 	{"F18C_BORT_NUMBER_KIL_R_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_R_100", DECAL ,"empty",true};
+	{"F18C_BORT_NUMBER_KIL_R_100", DECAL ,"F18C_bort_number_uk",false};	
 	
 	{"F18C_BORT_NUMBER_KIL_R_10", 0 ,"F18C_2_DIFF_default",false};
 	{"F18C_BORT_NUMBER_KIL_R_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_R_10", DECAL ,"empty",true};	
+	{"F18C_BORT_NUMBER_KIL_R_10", DECAL ,"F18C_bort_number_uk",false};		
 
 	{"F18C_BORT_NUMBER_KIL_R_01", 0 ,"F18C_2_DIFF_default",false};
 	{"F18C_BORT_NUMBER_KIL_R_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_R_01", DECAL ,"empty",true};		
+	{"F18C_BORT_NUMBER_KIL_R_01", DECAL ,"F18C_bort_number_uk",false};			
 
 	
 	
@@ -235,6 +235,12 @@ livery = {
 
 	{"FPU_8A", 0 ,"FPU_8A",false};
 	{"FPU_8A", 2 ,"FPU_8A_Diff_RoughMet",true};
-	
+
+	{"pilot_F18", 0 ,"pilot_F18",true};
+	{"pilot_F18", 2 ,"pilot_F18_roughmet",true};
+	{"pilot_F18_patch", 0 ,"pilot_f16_patch",false};
+    
+    	{"pilot_F18_helmet", 0 ,"pilot_f18_helmet",false};
+	{"pilot_F18_helmet", 2 ,"pilot_F18_helmet_roughmet",true};	
 }
 name = "TaktLwG 66 -  default"

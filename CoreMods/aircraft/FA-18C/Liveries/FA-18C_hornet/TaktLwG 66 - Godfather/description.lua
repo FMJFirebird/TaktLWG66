@@ -4,7 +4,7 @@ livery = {
 	{"f18c1", ROUGHNESS_METALLIC ,"F18C_1_DIF_RoughMet",true};
 
 	
-	{"f18c2", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_PUPPIES",false};
+	{"f18c2", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"f18c2", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 
 	
@@ -39,54 +39,54 @@ livery = {
 	
 
 	
-	{"F18C_BORT_NUMBER_ZAK_L_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_ZAK_L_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_ZAK_L_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_ZAK_L_100", DECAL ,"empty",true};
 	
-	{"F18C_BORT_NUMBER_ZAK_L_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_ZAK_L_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_ZAK_L_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_ZAK_L_10", DECAL ,"empty",true};	
 
-	{"F18C_BORT_NUMBER_ZAK_L_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_ZAK_L_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_ZAK_L_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_ZAK_L_01", DECAL ,"empty",true};
 	
-	{"F18C_BORT_NUMBER_ZAK_R_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_ZAK_R_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_ZAK_R_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_ZAK_R_100", DECAL ,"empty",true};
 	
-	{"F18C_BORT_NUMBER_ZAK_R_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_ZAK_R_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_ZAK_R_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_ZAK_R_10", DECAL ,"empty",true};	
 
-	{"F18C_BORT_NUMBER_ZAK_R_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_ZAK_R_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_defaul_HP",false};
 	{"F18C_BORT_NUMBER_ZAK_R_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_ZAK_R_01", DECAL ,"empty",true};
 	
 	
-	{"F18C_BORT_NUMBER_KIL_L_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_L_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_L_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_L_100", DECAL ,"empty",true};
+	{"F18C_BORT_NUMBER_KIL_L_100", DECAL ,"../TaktLwG 66 -  default/F18C_bort_number_uk",false};
 	
-	{"F18C_BORT_NUMBER_KIL_L_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_L_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_L_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_L_10", DECAL ,"empty",true};	
+	{"F18C_BORT_NUMBER_KIL_L_10", DECAL ,"../TaktLwG 66 -  default/F18C_bort_number_uk",false};
 
-	{"F18C_BORT_NUMBER_KIL_L_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_L_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_L_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_L_01", DECAL ,"empty",true};	
+	{"F18C_BORT_NUMBER_KIL_L_01", DECAL ,"../TaktLwG 66 -  default/F18C_bort_number_uk",false};
 	
-	{"F18C_BORT_NUMBER_KIL_R_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_R_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_R_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_R_100", DECAL ,"empty",true};
+	{"F18C_BORT_NUMBER_KIL_R_100", DECAL ,"../TaktLwG 66 -  default/F18C_bort_number_uk",false};
 	
-	{"F18C_BORT_NUMBER_KIL_R_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_R_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_R_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_R_10", DECAL ,"empty",true};	
+	{"F18C_BORT_NUMBER_KIL_R_10", DECAL ,"../TaktLwG 66 -  default/F18C_bort_number_uk",false};
 
-	{"F18C_BORT_NUMBER_KIL_R_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_R_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_R_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
-	{"F18C_BORT_NUMBER_KIL_R_01", DECAL ,"empty",true};		
+	{"F18C_BORT_NUMBER_KIL_R_01", DECAL ,"../TaktLwG 66 -  default/F18C_bort_number_uk",false};		
 
 	
 	
@@ -118,27 +118,27 @@ livery = {
 	
 
 
-	{"F18C_BORT_NUMBER_KIL_Kuw_R_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_Kuw_R_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_Kuw_R_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_KIL_Kuw_R_100", DECAL ,"empty",true};
 	
-	{"F18C_BORT_NUMBER_KIL_Kuw_R_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_Kuw_R_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_Kuw_R_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_KIL_Kuw_R_10", DECAL ,"empty",true};	
 
-	{"F18C_BORT_NUMBER_KIL_Kuw_R_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_Kuw_R_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_Kuw_R_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_KIL_Kuw_R_01", DECAL ,"empty",true};	
 	
-	{"F18C_BORT_NUMBER_KIL_Kuw_L_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_Kuw_L_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_Kuw_L_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_KIL_Kuw_L_100", DECAL ,"empty",true};
 	
-	{"F18C_BORT_NUMBER_KIL_Kuw_L_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_Kuw_L_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_Kuw_L_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_KIL_Kuw_L_10", DECAL ,"empty",true};	
 
-	{"F18C_BORT_NUMBER_KIL_Kuw_L_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_Kuw_L_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_Kuw_L_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_KIL_Kuw_L_01", DECAL ,"empty",true};		
 
@@ -170,27 +170,27 @@ livery = {
 	
 
 	
-	{"F18C_BORT_NUMBER_KIL_Switz_R_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_Switz_R_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_Switz_R_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_KIL_Switz_R_100", DECAL ,"empty",true};
 	
-	{"F18C_BORT_NUMBER_KIL_Switz_R_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_Switz_R_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_Switz_R_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_KIL_Switz_R_10", DECAL ,"empty",true};	
 
-	{"F18C_BORT_NUMBER_KIL_Switz_R_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_Switz_R_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_Switz_R_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_KIL_Switz_R_01", DECAL ,"empty",true};	
 	
-	{"F18C_BORT_NUMBER_KIL_Switz_L_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_Switz_L_100", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_Switz_L_100", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_KIL_Switz_L_100", DECAL ,"empty",true};
 	
-	{"F18C_BORT_NUMBER_KIL_Switz_L_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_Switz_L_10", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_Switz_L_10", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_KIL_Switz_L_10", DECAL ,"empty",true};	
 
-	{"F18C_BORT_NUMBER_KIL_Switz_L_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_Puppies",false};
+	{"F18C_BORT_NUMBER_KIL_Switz_L_01", 0 ,"../TaktLwG 66 -  default/F18C_2_DIFF_default_HP",false};
 	{"F18C_BORT_NUMBER_KIL_Switz_L_01", ROUGHNESS_METALLIC ,"F18C_2_DIF_RoughMet",true};
 	{"F18C_BORT_NUMBER_KIL_Switz_L_01", DECAL ,"empty",true};
 
@@ -236,5 +236,11 @@ livery = {
 	{"FPU_8A", 0 ,"../TaktLwG 66 -  default/FPU_8A",false};
 	{"FPU_8A", 2 ,"../TaktLwG 66 -  default/FPU_8A_Diff_RoughMet",true};
 	
+	{"pilot_F18", 0 ,"pilot_F18",true};
+	{"pilot_F18", 2 ,"pilot_F18_roughmet",true};
+	{"pilot_F18_patch", 0 ,"../TaktLwG 66 -  default/pilot_f16_patch_HP",false};
+    
+    	{"pilot_F18_helmet", 0 ,"pilot_f18_helmet",false};
+	{"pilot_F18_helmet", 2 ,"pilot_F18_helmet_roughmet",true};	
 }
 name = "TaktLwG 66 - Godfather"

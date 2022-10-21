@@ -13,6 +13,7 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2022-10-21 Mirage F1 hinzugefügt
 - 2022-10-03 Diverse Anpassung F-18
 - 2022-10-03 Mute F-18 Livery
 - 2022-10-03 RedButton SnakeEyes Livery

@@ -13,6 +13,7 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2023-02-04 Timber F18 Howling Puppies
 - 2023-01-14 AH-64 Livery für Timber aka Hautständer
 - 2022-10-21 Mirage F1 hinzugefügt
 - 2022-10-03 Diverse Anpassung F-18

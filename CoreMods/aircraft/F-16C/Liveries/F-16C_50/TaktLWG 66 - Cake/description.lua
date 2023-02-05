@@ -151,7 +151,7 @@ livery = {
 
 -- Pilot
 		
-	{"pilot_F16_helmet", 0,	                    "pilot_f16_helmet",				true};
+	{"pilot_F16_helmet", 0,	                    "pilot_f16_helmet",				false};
 	{"pilot_F16_helmet", 1,	                    "pilot_f16_helmet_nm",			true};
 	{"pilot_F16_helmet", ROUGHNESS_METALLIC,	"pilot_f16_helmet_roughmet",	true};
 	

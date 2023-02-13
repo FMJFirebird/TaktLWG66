@@ -41,9 +41,6 @@ livery = {
     {"JF-17_numbers02_BN52", 0, "empty", true},
 	{"JF-17_numbers02_BN31", 0, "empty", true},
 	{"JF-17_numbers02_BN32", 0, "empty", true},
-	{"pilot helmet", DIFFUSE, "jf-17_pilot_helmet", false};
-	{"pilot helmet", NORMAL_MAP, "jf-17_pilot_helmet_norm", true};
-	{"pilot helmet", SPECULAR, "jf-17_pilot_helmet_roughmet", true};
 	{"BRU_33A", DIFFUSE, "bru_33a_dif", true};
 	{"BRU_33A", NORMAL_MAP, "bru_33a_nm", true};
 	{"BRU_33A", ROUGHNESS_METALLIC, "bru_33a_dif_roughmet", true};
@@ -73,6 +70,16 @@ livery = {
 	{"03 - Default", DIFFUSE, "DLPodAKG", true};
 	{"03 - Default", NORMAL_MAP, "dlpodakg_norm", true};
 	{"03 - Default", ROUGHNESS_METALLIC, "dlpodakg_roughmet", true};
+
+--- pilot ---
+	{"JF-17_pilot_helmet", 0, "../TaktLwG 66 -  default/jf-17_pilot_helmet.dds", false};
+	{"JF-17_pilot_helmet", NORMAL_MAP, "jf-17_pilot_helmet_norm.dds", true};
+	{"JF-17_pilot_helmet", SPECULAR, "jf-17_pilot_helmet_roughmet.dds", true};
+	{"JF-17_pilot", 0 , "../TaktLwG 66 -  default/jf-17_pilot.dds", false};
+	{"JF-17_pilot", NORMAL_MAP , "jf-17_pilot_norm.dds", true};
+	{"JF-17_pilot", SPECULAR , "jf-17_pilot_roughmet.dds", true};
+	{"JF-17_pilot_decol", 0 , "JF-17_Pilot_decol.dds", false};
+
 }
 name = "TaktLwG 66 -  Competition"
 

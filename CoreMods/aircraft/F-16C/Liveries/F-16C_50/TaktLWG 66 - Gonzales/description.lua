@@ -67,7 +67,7 @@ livery = {
 	{"F16_bl50_Main_3",	ROUGHNESS_METALLIC,	"../TaktLWG 66/f16_bl50_main_3_roughmet",	false};
 	
 -- F16_bl50_Kil
-	{"F16_bl50_Kil",	0,	                "../TaktLWG 66/F16_bl50_Kil_SE_A",				false};
+	{"F16_bl50_Kil",	0,	                "../TaktLWG 66/F16_bl50_Kil_SE",				false};
 	{"F16_bl50_Kil",	1,	                "f16_bl50_kil_normal",		true};
 	{"F16_bl50_Kil",	ROUGHNESS_METALLIC,	"../TaktLWG 66/F16_bl50_Kil_roughmet",	false};
 

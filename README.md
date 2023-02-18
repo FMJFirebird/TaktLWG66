@@ -13,6 +13,7 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2023-02-18 Mirage F1EE hinzugefügt
 - 2023-02-15 Fixes für die Viggen
 - 2023-02-13 JF-17 und Viggen anpasst. Fix für Gonzales F-16 
 - 2023-02-05 Neue F-16 Helme and fix für Dodge F-18

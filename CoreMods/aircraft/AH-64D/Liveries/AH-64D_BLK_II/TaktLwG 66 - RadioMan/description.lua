@@ -100,15 +100,18 @@ livery = {
 
 -- PILOT-------------------------------------------------------------------------------------------
 	{"AH-64D_pilot_body",	DIFFUSE,			"../TaktLwG 66 -  default/ah-64d_pilot_body", false};
-	{"AH-64D_pilot_body",	NORMAL_MAP,			"../TaktLwG 66 -  default/ah-64d_pilot_body_normal", false};
-	{"AH-64D_pilot_body",	ROUGHNESS_METALLIC,	"../TaktLwG 66 -  default/ah-64d_pilot_body_roughmet", false};
+	{"AH-64D_pilot_body",	NORMAL_MAP,			"../TaktLwG 66 -  default/ah-64d_pilot_body_normal", true};
+	{"AH-64D_pilot_body",	ROUGHNESS_METALLIC,	"../TaktLwG 66 -  default/ah-64d_pilot_body_roughmet", true};
 
 	{"AH-64D_pilot_details",	DIFFUSE,			"../TaktLwG 66 -  default/ah-64d_pilot_details", false};
 	{"AH-64D_pilot_details",	NORMAL_MAP,			"ah-64d_pilot_details_normal", true};
 	{"AH-64D_pilot_details",	ROUGHNESS_METALLIC,	"ah-64d_pilot_details_roughmet", true};
 
-	{"AH-64D_pilot_helmet",	DIFFUSE,			"ah-64d_pilot_helmet", true
-	};
+	{"AH-64D_pilot_patch",	DIFFUSE,			"../TaktLwG 66 -  default/AH-64D_pilot_patch_DV", false};
+	{"AH-64D_pilot_patch",	NORMAL_MAP,			"../TaktLwG 66 -  default/AH-64D_pilot_patch_DV_Normal", false};
+	{"AH-64D_pilot_patch",	ROUGHNESS_METALLIC,	"../TaktLwG 66 -  default/AH-64D_pilot_patch_DV_RoughMet", false};
+
+	{"AH-64D_pilot_helmet",	DIFFUSE,			"ah-64d_pilot_helmet", true};
 	{"AH-64D_pilot_helmet",	NORMAL_MAP,			"ah-64d_pilot_helmet_normal", true};
 	{"AH-64D_pilot_helmet",	ROUGHNESS_METALLIC,	"ah-64d_pilot_helmet_roughmet", true};
 
@@ -167,7 +170,7 @@ livery = {
 
 
 
-name = "TaktLwG 66 - RadioMan"
+name = "TaktLwG 66 -   RadioMan"
 
 
 order     = 999

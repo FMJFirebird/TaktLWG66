@@ -13,6 +13,7 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2023-02-25 KA-50 3 Default Liveries hinzugefügt
 - 2023-02-20 Apache Texturen gefixt
 - 2023-02-18 Mirage F1EE hinzugefügt
 - 2023-02-15 Fixes für die Viggen

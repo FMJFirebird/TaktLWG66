@@ -13,6 +13,7 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2023-08-03 F-15E Liveries hinzugefügt
 - 2023-07-26 F/A-18 Livery Update
 - 2023-02-25 KA-50 3 Default Liveries hinzugefügt
 - 2023-02-20 Apache Texturen gefixt

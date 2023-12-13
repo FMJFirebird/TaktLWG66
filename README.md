@@ -13,6 +13,11 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2023-12-13 Pattex AH-64D Livery hinzugefügt
+- 2023-12-13 Pattex F-18C Livery hinzugefügt
+- 2023-12-13 Triggerd und DaVinci F-16C  Livery hinzugefügt
+- 2023-12-13 Competition und NoGear F-15SE Livery hinzugefügt
+- 2023-12-13 A-10 Liveries für Godfather hinzugefügt
 - 2023-08-03 F-15E Liveries hinzugefügt
 - 2023-07-26 F/A-18 Livery Update
 - 2023-02-25 KA-50 3 Default Liveries hinzugefügt

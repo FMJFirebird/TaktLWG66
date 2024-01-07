@@ -13,6 +13,9 @@ Empfohlener Installationsweg:<br>
 7.) Im Rearmingfenster können nun immer die TaktLwG 66 Skins für die untenstehenden Module ausgewählt werden.<br>
 
 Änderungen/Changlog:
+- 2024-01-08 F/A-18C Skin für Rebel aka Preuse
+- 2024-01-08 SA342 fix & rework
+- 2024-01-08 SA342 Skin für Shutter
 - 2023-12-13 Pattex AH-64D Livery hinzugefügt
 - 2023-12-13 Pattex F-18C Livery hinzugefügt
 - 2023-12-13 Triggerd und DaVinci F-16C  Livery hinzugefügt
